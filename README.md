@@ -13,4 +13,4 @@
 ![çıktı5](https://user-images.githubusercontent.com/97908293/203292833-cc0d2c36-66b0-42cd-aa55-323893042436.png)
 
 ## ❓ what does it do ❓
-su kullanım ücreti,atık su ücreti,kdv ücreti hesaplar ve toplam su faturasını hesaplar
+Calculates water usage fee, waste water fee, VAT fee and calculates the total water bill
